@@ -1,0 +1,24 @@
+
+
+p {
+    
+font-size : 12pt; 
+font-family : arial,helvetica; 
+font-weight : normal;
+text-indent: 5px
+allign: center;
+    
+
+}
+
+div {
+   border:5px solid black;
+   padding:10px;
+   background:azure;
+       
+}
+
+checkbox{
+    font-family : arial,helvetica;
+    
+}
